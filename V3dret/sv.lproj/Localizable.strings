@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  V3dret
+
+  Created by Tord Wessman on 2023-11-06.
+  
+*/
+
+"temperature_text" = "Temperatur: %.1f °c";
+"wind_speed_text" = "Vindhastighet: %.1f m/s";
+"error_text" = "Ett fel uppstod:\n'%@'";
+"retry" = "Försök igen";
+"search" = "Sök";
+"select_city_title" = "Välj stad";
+"enter_city_name_placeholder" = "Sök stad";
+"enter_city_name_menu" = "Sök efter en stad i menyn.";
+"error_invalid_search_text" = "Nu sökte du på något knasigt. Försök igen.";
+"error_not_enough_data_text" = "Kunde inte hitta vädret för denna platsen.";
+"no_match_for_search" = "Ingen stad funnen med det angivna namnet.";

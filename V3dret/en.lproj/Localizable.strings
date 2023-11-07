@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  V3dret
+
+  Created by Tord Wessman on 2023-11-06.
+  
+*/
+
+"temperature_text" = "Temperature: %.1f °c";
+"wind_speed_text" = "Wind speed: %.1f m/s";
+"error_text" = "Error:\n'%@'";
+"retry" = "Retry";
+"search" = "Search";
+"select_city_title" = "Select city";
+"enter_city_name_placeholder" = "Enter city name";
+"enter_city_name_menu" = "Search for a city name in the menu.";
+"error_invalid_search_text" = "Invalid search text! Try again and write something more serious.";
+"error_not_enough_data_text" = "Missing information for this location.";
+"no_match_for_search" = "No city matched your search.";
